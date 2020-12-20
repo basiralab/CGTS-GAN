@@ -28,7 +28,9 @@ Scipy
 
 ## Code Demo
 
-In order to use our framework, you need to provide: a set of source and target graph matrices, each of size (n * m * m).  n denotes the total number of subjects in the dataset and m the number of features.
+In order to use our framework, you need to provide: a set of source and target graph matrices, each of size (n * m * m). 
+
+n denotes the total number of subjects in the dataset and m the number of features.
 
 In the file simulated_data.py, we simulate data for the usage of our framework for target graph prediction from a source graph. The dataset has 150 subjects and each with 35 ROIs (similar to the connectomic data we used in our paper).
 
