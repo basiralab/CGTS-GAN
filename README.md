@@ -52,7 +52,7 @@ Guo, X., Wu, L., Zhao, L., 2018. Deep graph translation. [https://arxiv.org/abs/
 
 Hierarchical adversarial connectomic domain alignment for target brain graph prediction and classification from a source graph:
 
-Bessadok, A., Mahjoub, M.A., Rekik, I., 2019a. Hierarchical adversarial connectomic domain alignment for target brain graph prediction and classification from a source graph. [https://www.researchgate.net/publication/336430159_] (2019) [https://github.com/basiralab/HADA/blob/master/HADA.py].
+Bessadok, A., Mahjoub, M.A., Rekik, I., 2019a. Hierarchical adversarial connectomic domain alignment for target brain graph prediction and classification from a source graph. [https://www.researchgate.net/publication/336430159_] (2019) [https://github.com/basiralab/HADA/].
 
 
 
